@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\bin\Debug\TGDI_Vorbereiter.exe.config
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\bin\Debug\TGDI_Vorbereiter.exe
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\bin\Debug\TGDI_Vorbereiter.pdb
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\obj\Debug\TGDI_Vorbereiter.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\obj\Debug\TGDI_Vorbereiter.Properties.Resources.resources
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\obj\Debug\TGDI_Vorbereiter.csproj.GenerateResource.cache
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\obj\Debug\TGDI_Vorbereiter.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\obj\Debug\TGDI_Vorbereiter.exe
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\obj\Debug\TGDI_Vorbereiter.pdb
+C:\Users\julia\source\repos\TGDI_Vorbereiter\TGDI_Vorbereiter\obj\Debug\TGDI_Vorbereiter.BasisN.resources
